@@ -1,0 +1,2 @@
+# brendnarxlar
+narxlar brendlar mahsulotlar
