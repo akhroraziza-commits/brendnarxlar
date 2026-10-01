@@ -1,2 +1,3 @@
-# brendnarxlar
-narxlar brendlar mahsulotlar
+# Narxlar
+
+Sport pitaniye narxlari sahifasi.
